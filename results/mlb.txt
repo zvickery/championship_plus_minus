@@ -1,0 +1,32 @@
+Team                      Rating Last Win
+------------------------- ------ --------
+New York Yankees            +416   2009  
+St Louis Cardinals          +112   2011  
+Oakland A's                  +68   1989  
+Boston Red Sox               +60   2013  
+SF Giants                    +60   2014  
+Miami Marlins                +37   2003  
+Toronto Blue Jays            +17   1993  
+LA Dodgers                   +14   1988  
+Arizona Diamondbacks         +13   2001  
+New York Mets                 -2   1986  
+Cincinnati Reds               -4   1990  
+Pittsburgh Pirates           -12   1979  
+Tampa Bay Rays               -17   None  
+KC Royals                    -19   1985  
+Colorado Rockies             -21   None  
+LA Angels                    -23   2002  
+Detroit Tigers               -32   1984  
+Seattle Mariners             -37   None  
+Baltimore Orioles            -40   1983  
+Minnesota Twins              -42   1991  
+San Diego Padres             -45   None  
+Milwaukee Brewers            -45   None  
+Washington Nationals         -45   None  
+Chicago White Sox            -48   2005  
+Atlanta Braves               -50   1995  
+Houston Astros               -52   None  
+Texas Rangers                -53   None  
+Philadelphia Phillies        -54   2008  
+Chicago Cubs                 -78   1908  
+Cleveland Indians            -78   1948  

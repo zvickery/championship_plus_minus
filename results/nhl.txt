@@ -1,0 +1,32 @@
+Team                      Rating Last Win
+------------------------- ------ --------
+Montreal Canadiens          +159   1993  
+Detroit Red Wings           +101   2008  
+Edmonton Oilers              +71   1990  
+New York Islanders           +43   1983  
+Pittsburgh Penguins          +27   2009  
+Colorado Avalanche           +22   2001  
+New Jersey Devils            +15   2000  
+LA Kings                     +14   2014  
+Anaheim Ducks                +10   2007  
+Tampa Bay Lightning           +9   2004  
+Carolina Hurricanes           -4   2006  
+Chicago Blackhawks            -4   2013  
+Boston Bruins                 -9   2011  
+Philadelphia Flyers          -12   1975  
+Columbus Blue Jackets        -13   None  
+Minnesota Wild               -13   None  
+Winnipeg Jets                -14   None  
+Nashville Predators          -15   None  
+Dallas Stars                 -19   1999  
+Toronto Maple Leafs          -19   1967  
+Calgary Flames               -20   1989  
+Florida Panthers             -20   None  
+Ottawa Senators              -21   None  
+San Jose Sharks              -22   None  
+Phoenix Coyotes              -34   None  
+New York Rangers             -35   1994  
+Washington Capitals          -39   None  
+Vancouver Canucks            -43   None  
+Buffalo Sabres               -43   None  
+St Louis Blues               -46   None  
