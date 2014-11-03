@@ -16,11 +16,11 @@ class PlusMinusCalculator:
         self.args = parser.parse_args()
         self.load_data()
 
-    def apply_delta(self, team, year, count, change):
+    def apply_delta(self, team, year, pm, change):
         if self.args.debug:
             print("{} {} {:+}".format(team, year, change))
 
-        return count + change
+        return pm + change
 
     def load_data(self):
         json_data = open(self.args.file)
@@ -32,6 +32,7 @@ class PlusMinusCalculator:
 
         for team in self.doc['teams']:
             if 'end' not in self.doc['teams'][team]:
+                pm = 0
                 count = 0
                 last = "None"
                 for year in sorted(self.doc['champions']):
@@ -39,26 +40,33 @@ class PlusMinusCalculator:
                         year_rec = self.doc['champions'][year]
                         if team == year_rec['winner']:
                             delta = int(year_rec['teams']) - 1
-                            count = self.apply_delta(team, year, count, delta)
+                            pm = self.apply_delta(team, year, pm, delta)
                             last = year
+                            count = count + 1
                         else:
-                            count = self.apply_delta(team, year, count, -1)
+                            pm = self.apply_delta(team, year, pm, -1)
 
                 results[team] = {'team': self.doc['teams'][team]['name'],
-                                 'result': count,
+                                 'result': pm,
+                                 'count': count,
                                  'last': last}
 
         return results
 
     def print_results(self, results):
-        print("{:25} {:6} {:8}".format('Team', 'Rating', 'Last Win'))
-        print("{:25} {:6} {:8}".format('-' * 25, '-' * 6, '-' * 8))
+        print("{:25} {:6} {:8} {:4}".format('Team', 'Rating',
+                                            'Last Win', 'Wins'))
+        print("{:25} {:6} {:8} {:4}".format('-' * 25, '-' * 6,
+                                            '-' * 8, '-' * 4))
 
-        for team in sorted(results.items(), key=lambda x: x[1]['result'],
+        # First sort on name, then result
+        name_sort = sorted(results.items(), key=lambda x: x[1]['team'])
+        for team in sorted(name_sort, key=lambda x: x[1]['result'],
                            reverse=True):
-            print("{:25} {:+6} {:^8}".format(team[1]['team'],
-                                             team[1]['result'],
-                                             team[1]['last']))
+            print("{:25} {:+6} {:^8} {:3}".format(team[1]['team'],
+                                                  team[1]['result'],
+                                                  team[1]['last'],
+                                                  team[1]['count']))
 
 if __name__ == "__main__":
     c = PlusMinusCalculator()

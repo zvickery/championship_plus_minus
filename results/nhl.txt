@@ -1,32 +1,32 @@
-Team                      Rating Last Win
-------------------------- ------ --------
-Montreal Canadiens          +159   1993  
-Detroit Red Wings            +71   2008  
-Edmonton Oilers              +71   1990  
-New Jersey Devils            +45   2003  
-New York Islanders           +43   1983  
-Pittsburgh Penguins          +27   2009  
-Colorado Avalanche           +22   2001  
-LA Kings                     +14   2014  
-Anaheim Ducks                +10   2007  
-Tampa Bay Lightning           +9   2004  
-Carolina Hurricanes           -4   2006  
-Chicago Blackhawks            -4   2013  
-Boston Bruins                 -9   2011  
-Philadelphia Flyers          -12   1975  
-Minnesota Wild               -13   None  
-Columbus Blue Jackets        -13   None  
-Winnipeg Jets                -14   None  
-Nashville Predators          -15   None  
-Toronto Maple Leafs          -19   1967  
-Dallas Stars                 -19   1999  
-Calgary Flames               -20   1989  
-Florida Panthers             -20   None  
-Ottawa Senators              -21   None  
-San Jose Sharks              -22   None  
-Phoenix Coyotes              -34   None  
-New York Rangers             -35   1994  
-Washington Capitals          -39   None  
-Buffalo Sabres               -43   None  
-Vancouver Canucks            -43   None  
-St Louis Blues               -46   None  
+Team                      Rating Last Win Wins
+------------------------- ------ -------- ----
+Montreal Canadiens          +159   1993    23
+Detroit Red Wings            +71   2008    11
+Edmonton Oilers              +71   1990     5
+New Jersey Devils            +45   2003     3
+New York Islanders           +43   1983     4
+Pittsburgh Penguins          +27   2009     3
+Colorado Avalanche           +22   2001     2
+LA Kings                     +14   2014     2
+Anaheim Ducks                +10   2007     1
+Tampa Bay Lightning           +9   2004     1
+Carolina Hurricanes           -4   2006     1
+Chicago Blackhawks            -4   2013     5
+Boston Bruins                 -9   2011     6
+Philadelphia Flyers          -12   1975     2
+Columbus Blue Jackets        -13   None     0
+Minnesota Wild               -13   None     0
+Winnipeg Jets                -14   None     0
+Nashville Predators          -15   None     0
+Dallas Stars                 -19   1999     1
+Toronto Maple Leafs          -19   1967    13
+Calgary Flames               -20   1989     1
+Florida Panthers             -20   None     0
+Ottawa Senators              -21   None     0
+San Jose Sharks              -22   None     0
+Phoenix Coyotes              -34   None     0
+New York Rangers             -35   1994     4
+Washington Capitals          -39   None     0
+Buffalo Sabres               -43   None     0
+Vancouver Canucks            -43   None     0
+St Louis Blues               -46   None     0
