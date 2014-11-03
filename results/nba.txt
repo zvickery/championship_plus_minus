@@ -1,0 +1,32 @@
+Team                      Rating Last Win Wins
+------------------------- ------ -------- ----
+LA Lakers                   +270   2010    16
+Boston Celtics              +169   2008    17
+Chicago Bulls               +120   1998     6
+San Antonio Spurs           +110   2014     5
+Miami Heat                   +64   2013     3
+Detroit Pistons              +15   2004     3
+Houston Rockets               +7   1995     2
+Dallas Mavericks              -4   2011     1
+New Orleans Pelicans         -12   None     0
+Memphis Grizzlies            -19   None     0
+Toronto Raptors              -19   None     0
+Portland Trail Blazers       -22   1977     1
+Philadelphia 76ers           -23   1983     3
+Charlotte Hornets            -24   None     0
+Minnesota Timberwolves       -25   None     0
+Orlando Magic                -25   None     0
+Milwaukee Bucks              -29   1971     1
+Golden State Warriors        -31   1975     3
+Washington Wizards           -31   1978     1
+New York Knicks              -37   1973     2
+Brooklyn Nets                -38   None     0
+Denver Nuggets               -38   None     0
+Indiana Pacers               -38   None     0
+Utah Jazz                    -40   None     0
+Cleveland Cavaliers          -44   None     0
+LA Clippers                  -44   None     0
+Phoenix Suns                 -46   None     0
+Oklahoma City Thunder        -47   None     0
+Sacramento Kings             -55   1951     1
+Atlanta Hawks                -57   1958     1

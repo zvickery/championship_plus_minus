@@ -27,6 +27,14 @@ class PlusMinusCalculator:
         self.doc = json.load(json_data)
         json_data.close()
 
+    def get_years(self, team):
+        champs = self.doc['champions']
+        if 'prior' in self.doc['teams'][team]:
+            prior = self.doc['teams'][team]['prior']
+            champs = dict(champs.items() + self.doc[prior].items())
+
+        return sorted(champs.items())
+
     def calculate(self):
         results = {}
 
@@ -35,9 +43,13 @@ class PlusMinusCalculator:
                 pm = 0
                 count = 0
                 last = "None"
-                for year in sorted(self.doc['champions']):
+                for year_tuple in self.get_years(team):
+                    year = year_tuple[0]
+                    if 'exclude' in self.doc['teams'][team]:
+                        if year in self.doc['teams'][team]['exclude']:
+                            continue 
                     if int(self.doc['teams'][team]['start']) <= int(year):
-                        year_rec = self.doc['champions'][year]
+                        year_rec = year_tuple[1]
                         if team == year_rec['winner']:
                             delta = int(year_rec['teams']) - 1
                             pm = self.apply_delta(team, year, pm, delta)

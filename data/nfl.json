@@ -6,7 +6,7 @@
     "BUF" : { "name": "Buffalo Bills", "start": 1960, "prior": "afl" },
     "CAR" : { "name": "Carolina Panthers", "start": 1995 },
     "CHI" : { "name": "Chicago Bears", "start": 1920, "prior": "nfl" },
-    "CLE" : { "name": "Cleveland Browns", "start": 1950, "prior": "nfl", "exclude": "1997,1998,1999" },
+    "CLE" : { "name": "Cleveland Browns", "start": 1950, "prior": "nfl", "exclude": "1996,1997,1998" },
     "CIN" : { "name": "Cincinnati Bengals", "start": 1968 },
     "DAL" : { "name": "Dallas Cowboys", "start": 1960, "prior": "nfl" },
     "DEN" : { "name": "Denver Broncos", "start": 1960, "prior": "afl" },
