@@ -10,4 +10,4 @@ Usage is very simple:
 ```
 $ ./championship_plus_minus.py -f data/nhl.json
 ```
-The tool is compatible with both python2 and python3.  Data files are in `data` and result files are in `results`.  The data files are in a presumably self-explanatory format to describe teams and championship winners.
+The tool is compatible with both python 2.7 and python 3.4.  Data files are in `data` and result files are in `results`.  The data files are in a presumably self-explanatory format to describe teams and championship winners.

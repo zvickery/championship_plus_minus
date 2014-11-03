@@ -47,7 +47,7 @@ class PlusMinusCalculator:
                     year = year_tuple[0]
                     if 'exclude' in self.doc['teams'][team]:
                         if year in self.doc['teams'][team]['exclude']:
-                            continue 
+                            continue
                     if int(self.doc['teams'][team]['start']) <= int(year):
                         year_rec = year_tuple[1]
                         if team == year_rec['winner']:
