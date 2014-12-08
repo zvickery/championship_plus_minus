@@ -18,7 +18,7 @@
     "SJE" : { "name": "San Jose Earthquakes", "start": 1996 },
     "SKC" : { "name": "Sporting KC", "start": 1996 },
     "TOR" : { "name": "Toronto FC", "start": 2007 },
-    "VAN" : { "name": "Vancouver Whitecaps", "start": 2011 }
+    "VAN" : { "name": "Vancouver Whitecaps FC", "start": 2011 }
   },
   "champions": {
     "1996": { "winner": "DCU", "teams": 10},
@@ -38,6 +38,7 @@
     "2010": { "winner": "COL", "teams": 16},
     "2011": { "winner": "LAG", "teams": 18},
     "2012": { "winner": "LAG", "teams": 19},
-    "2013": { "winner": "SKC", "teams": 19}
+    "2013": { "winner": "SKC", "teams": 19},
+    "2014": { "winner": "LAG", "teams": 19}
   }
 }

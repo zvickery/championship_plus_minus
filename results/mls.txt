@@ -1,21 +1,21 @@
 Team                      Rating Last Win Wins
 ------------------------- ------ -------- ----
-LA Galaxy                    +41   2012     4
-DC United                    +24   2004     4
-Houston Dynamo               +17   2007     2
-Sporting KC                  +13   2013     2
-Real Salt Lake                +6   2009     1
-San Jose Earthquakes          +4   2003     2
-Colorado Rapids               -2   2010     1
-Montreal Impact               -2   None     0
-Portland Timbers              -3   None     0
-Vancouver Whitecaps           -3   None     0
-Chicago Fire                  -4   1998     1
-Columbus Crew SC              -4   2008     1
-Philadelphia Union            -4   None     0
-Seattle Sounders FC           -5   None     0
-Toronto FC                    -7   None     0
-Chivas USA                   -10   None     0
-FC Dallas                    -18   None     0
-New England Revolution       -18   None     0
-New York Red Bulls           -18   None     0
+LA Galaxy                    +59   2014     5
+DC United                    +23   2004     4
+Houston Dynamo               +16   2007     2
+Sporting KC                  +12   2013     2
+Real Salt Lake                +5   2009     1
+San Jose Earthquakes          +3   2003     2
+Colorado Rapids               -3   2010     1
+Montreal Impact               -3   None     0
+Portland Timbers              -4   None     0
+Vancouver Whitecaps FC        -4   None     0
+Chicago Fire                  -5   1998     1
+Columbus Crew SC              -5   2008     1
+Philadelphia Union            -5   None     0
+Seattle Sounders FC           -6   None     0
+Toronto FC                    -8   None     0
+Chivas USA                   -11   None     0
+FC Dallas                    -19   None     0
+New England Revolution       -19   None     0
+New York Red Bulls           -19   None     0
