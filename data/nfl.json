@@ -81,7 +81,8 @@
     "2010": { "winner": "GBP", "teams": 32},
     "2011": { "winner": "NYG", "teams": 32},
     "2012": { "winner": "BAL", "teams": 32},
-    "2013": { "winner": "SEA", "teams": 32}
+    "2013": { "winner": "SEA", "teams": 32},
+    "2014": { "winner": "NEP", "teams": 32}
   },
   "afl": {
     "1960": { "winner": "TEN", "teams": 8},
