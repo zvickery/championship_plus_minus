@@ -18,7 +18,7 @@ class PlusMinusCalculator:
 
     def apply_delta(self, team, year, pm, change):
         if self.args.debug:
-            print("{} {} {:+}".format(team, year, change))
+            print("{} {} {:+} {:+}".format(team, year, change, pm + change))
 
         return pm + change
 
