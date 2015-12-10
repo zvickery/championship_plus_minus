@@ -9,6 +9,7 @@
     "HOU" : { "name": "Houston Dynamo", "start": 2006 },
     "LAG" : { "name": "LA Galaxy", "start": 1996 },
     "MON" : { "name": "Montreal Impact", "start": 2012 },
+    "NYC" : { "name": "New York City FC", "start": 2015 },
     "NYR" : { "name": "New York Red Bulls", "start": 1996 },
     "NER" : { "name": "New England Revolution", "start": 1996 },
     "PHI" : { "name": "Philadelphia Union", "start": 2010 },
@@ -39,6 +40,7 @@
     "2011": { "winner": "LAG", "teams": 18},
     "2012": { "winner": "LAG", "teams": 19},
     "2013": { "winner": "SKC", "teams": 19},
-    "2014": { "winner": "LAG", "teams": 19}
+    "2014": { "winner": "LAG", "teams": 19},
+    "2015": { "winner": "POR", "teams": 20}
   }
 }
