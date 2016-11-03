@@ -141,6 +141,8 @@
     "2011": { "winner": "STL", "teams": 30},
     "2012": { "winner": "SFG", "teams": 30},
     "2013": { "winner": "BOS", "teams": 30},
-    "2014": { "winner": "SFG", "teams": 30}
+    "2014": { "winner": "SFG", "teams": 30},
+    "2015": { "winner": "KCR", "teams": 30},
+    "2016": { "winner": "CHC", "teams": 30}
   }
 }
