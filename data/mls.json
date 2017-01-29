@@ -1,7 +1,6 @@
 {
   "teams": {
     "CHI" : { "name": "Chicago Fire", "start": 1998 },
-    "CHV" : { "name": "Chivas USA", "start": 2004 },
     "CLM" : { "name": "Columbus Crew SC", "start": 1996 },
     "COL" : { "name": "Colorado Rapids", "start": 1996 },
     "DCU" : { "name": "DC United", "start": 1996 },
@@ -12,6 +11,7 @@
     "NYC" : { "name": "New York City FC", "start": 2015 },
     "NYR" : { "name": "New York Red Bulls", "start": 1996 },
     "NER" : { "name": "New England Revolution", "start": 1996 },
+    "ORL" : { "name": "Orlando City SC", "start": 2015 },
     "PHI" : { "name": "Philadelphia Union", "start": 2010 },
     "POR" : { "name": "Portland Timbers", "start": 2011 },
     "RSL" : { "name": "Real Salt Lake", "start": 2005 },
@@ -41,6 +41,7 @@
     "2012": { "winner": "LAG", "teams": 19},
     "2013": { "winner": "SKC", "teams": 19},
     "2014": { "winner": "LAG", "teams": 19},
-    "2015": { "winner": "POR", "teams": 20}
+    "2015": { "winner": "POR", "teams": 20},
+    "2016": { "winner": "SEA", "teams": 20}
   }
 }
