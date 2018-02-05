@@ -84,7 +84,8 @@
     "2013": { "winner": "SEA", "teams": 32},
     "2014": { "winner": "NEP", "teams": 32},
     "2015": { "winner": "DEN", "teams": 32},
-    "2016": { "winner": "NEP", "teams": 32}
+    "2016": { "winner": "NEP", "teams": 32},
+    "2017": { "winner": "PHI", "teams": 32}
   },
   "afl": {
     "1960": { "winner": "TEN", "teams": 8},
