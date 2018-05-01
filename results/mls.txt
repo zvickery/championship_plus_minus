@@ -1,22 +1,24 @@
 Team                      Rating Last Win Wins
 ------------------------- ------ -------- ----
-LA Galaxy                    +57   2014     5
-DC United                    +21   2004     4
-Houston Dynamo               +14   2007     2
-Portland Timbers             +14   2015     1
-Seattle Sounders FC          +12   2016     1
-Sporting KC                  +10   2013     2
-Real Salt Lake                +3   2009     1
-San Jose Earthquakes          +1   2003     2
-New York City FC              -2   None     0
-Orlando City SC               -2   None     0
-Colorado Rapids               -5   2010     1
-Montreal Impact               -5   None     0
-Vancouver Whitecaps FC        -6   None     0
-Chicago Fire                  -7   1998     1
-Columbus Crew SC              -7   2008     1
-Philadelphia Union            -7   None     0
-Toronto FC                   -10   None     0
-FC Dallas                    -21   None     0
-New England Revolution       -21   None     0
-New York Red Bulls           -21   None     0
+LA Galaxy                    +56   2014     5
+DC United                    +20   2004     4
+Houston Dynamo               +13   2007     2
+Portland Timbers             +13   2015     1
+Seattle Sounders FC          +11   2016     1
+Toronto FC                   +11   2017     1
+Sporting KC                   +9   2013     2
+Real Salt Lake                +2   2009     1
+San Jose Earthquakes          +0   2003     2
+Atlanta United FC             -1   None     0
+Minnesota United FC           -1   None     0
+New York City FC              -3   None     0
+Orlando City SC               -3   None     0
+Colorado Rapids               -6   2010     1
+Montreal Impact               -6   None     0
+Vancouver Whitecaps FC        -7   None     0
+Chicago Fire                  -8   1998     1
+Columbus Crew SC              -8   2008     1
+Philadelphia Union            -8   None     0
+FC Dallas                    -22   None     0
+New England Revolution       -22   None     0
+New York Red Bulls           -22   None     0

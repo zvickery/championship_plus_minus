@@ -1,5 +1,6 @@
 {
   "teams": {
+    "ATL" : { "name": "Atlanta United FC", "start": 2017 },
     "CHI" : { "name": "Chicago Fire", "start": 1998 },
     "CLM" : { "name": "Columbus Crew SC", "start": 1996 },
     "COL" : { "name": "Colorado Rapids", "start": 1996 },
@@ -7,6 +8,7 @@
     "FCD" : { "name": "FC Dallas", "start": 1996 },
     "HOU" : { "name": "Houston Dynamo", "start": 2006 },
     "LAG" : { "name": "LA Galaxy", "start": 1996 },
+    "MIN" : { "name": "Minnesota United FC", "start": 2017 },
     "MON" : { "name": "Montreal Impact", "start": 2012 },
     "NYC" : { "name": "New York City FC", "start": 2015 },
     "NYR" : { "name": "New York Red Bulls", "start": 1996 },
@@ -42,6 +44,7 @@
     "2013": { "winner": "SKC", "teams": 19},
     "2014": { "winner": "LAG", "teams": 19},
     "2015": { "winner": "POR", "teams": 20},
-    "2016": { "winner": "SEA", "teams": 20}
+    "2016": { "winner": "SEA", "teams": 20},
+    "2017": { "winner": "TOR", "teams": 22}
   }
 }
