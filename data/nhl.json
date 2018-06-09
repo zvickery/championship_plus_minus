@@ -30,6 +30,7 @@
     "TBL" : { "name": "Tampa Bay Lightning", "start": 1993 },
     "TOR" : { "name": "Toronto Maple Leafs", "start": 1918 },
     "VAN" : { "name": "Vancouver Canucks", "start": 1971 },
+    "VGK" : { "name": "Vegas Golden Knights", "start": 2018 },
     "VIC" : { "name": "Victoria Cougars", "start": 1915, "end": 1926 },
     "WAS" : { "name": "Washington Capitals", "start": 1975 },
     "WIN" : { "name": "Winnipeg Jets", "start": 2000 }
@@ -132,6 +133,7 @@
     "2014": { "winner": "LAK", "teams": 30},
     "2015": { "winner": "CHI", "teams": 30},
     "2016": { "winner": "PIT", "teams": 30},
-    "2017": { "winner": "PIT", "teams": 30}
+    "2017": { "winner": "PIT", "teams": 30},
+    "2018": { "winner": "WAS", "teams": 30}
   }
 }
