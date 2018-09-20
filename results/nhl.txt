@@ -13,8 +13,8 @@ Anaheim Ducks                 +6   2007     1
 Tampa Bay Lightning           +5   2004     1
 Vegas Golden Knights          -1   None     0
 Carolina Hurricanes           -8   2006     1
+Washington Capitals          -12   2018     1
 Boston Bruins                -13   2011     6
-Washington Capitals          -13   2018     1
 Philadelphia Flyers          -16   1975     2
 Columbus Blue Jackets        -17   None     0
 Minnesota Wild               -17   None     0
