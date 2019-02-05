@@ -1,24 +1,25 @@
 Team                      Rating Last Win Wins
 ------------------------- ------ -------- ----
-LA Galaxy                    +56   2014     5
-DC United                    +20   2004     4
-Houston Dynamo               +13   2007     2
-Portland Timbers             +13   2015     1
-Seattle Sounders FC          +11   2016     1
-Toronto FC                   +11   2017     1
-Sporting KC                   +9   2013     2
-Real Salt Lake                +2   2009     1
-San Jose Earthquakes          +0   2003     2
-Atlanta United FC             -1   None     0
-Minnesota United FC           -1   None     0
-New York City FC              -3   None     0
-Orlando City SC               -3   None     0
-Colorado Rapids               -6   2010     1
-Montreal Impact               -6   None     0
-Vancouver Whitecaps FC        -7   None     0
-Chicago Fire                  -8   1998     1
-Columbus Crew SC              -8   2008     1
-Philadelphia Union            -8   None     0
-FC Dallas                    -22   None     0
-New England Revolution       -22   None     0
-New York Red Bulls           -22   None     0
+LA Galaxy                    +55   2014     5
+Atlanta United FC            +21   2018     1
+DC United                    +19   2004     4
+Houston Dynamo               +12   2007     2
+Portland Timbers             +12   2015     1
+Seattle Sounders FC          +10   2016     1
+Toronto FC                   +10   2017     1
+Sporting KC                   +8   2013     2
+Real Salt Lake                +1   2009     1
+LA FC                         -1   None     0
+San Jose Earthquakes          -1   2003     2
+Minnesota United FC           -2   None     0
+New York City FC              -4   None     0
+Orlando City SC               -4   None     0
+Colorado Rapids               -7   2010     1
+Montreal Impact               -7   None     0
+Vancouver Whitecaps FC        -8   None     0
+Chicago Fire                  -9   1998     1
+Columbus Crew SC              -9   2008     1
+Philadelphia Union            -9   None     0
+FC Dallas                    -23   None     0
+New England Revolution       -23   None     0
+New York Red Bulls           -23   None     0

@@ -8,6 +8,7 @@
     "FCD" : { "name": "FC Dallas", "start": 1996 },
     "HOU" : { "name": "Houston Dynamo", "start": 2006 },
     "LAG" : { "name": "LA Galaxy", "start": 1996 },
+    "LAF" : { "name": "LA FC", "start": 2018 },
     "MIN" : { "name": "Minnesota United FC", "start": 2017 },
     "MON" : { "name": "Montreal Impact", "start": 2012 },
     "NYC" : { "name": "New York City FC", "start": 2015 },
@@ -45,6 +46,7 @@
     "2014": { "winner": "LAG", "teams": 19},
     "2015": { "winner": "POR", "teams": 20},
     "2016": { "winner": "SEA", "teams": 20},
-    "2017": { "winner": "TOR", "teams": 22}
+    "2017": { "winner": "TOR", "teams": 22},
+    "2018": { "winner": "ATL", "teams": 23}
   }
 }
