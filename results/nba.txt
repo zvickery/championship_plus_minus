@@ -1,32 +1,32 @@
 Team                      Rating Last Win Wins
 ------------------------- ------ -------- ----
-LA Lakers                   +266   2010    16
-Boston Celtics              +165   2008    17
-Chicago Bulls               +116   1998     6
-San Antonio Spurs           +106   2014     5
-Miami Heat                   +60   2013     3
-Golden State Warriors        +55   2018     6
-Detroit Pistons              +11   2004     3
-Houston Rockets               +3   1995     2
-Dallas Mavericks              -8   2011     1
-New Orleans Pelicans         -16   None     0
-Cleveland Cavaliers          -18   2016     1
-Memphis Grizzlies            -23   None     0
-Toronto Raptors              -23   None     0
-Portland Trail Blazers       -26   1977     1
-Philadelphia 76ers           -27   1983     3
-Charlotte Hornets            -28   None     0
-Minnesota Timberwolves       -29   None     0
-Orlando Magic                -29   None     0
-Milwaukee Bucks              -33   1971     1
-Washington Wizards           -35   1978     1
-New York Knicks              -41   1973     2
-Brooklyn Nets                -42   None     0
-Denver Nuggets               -42   None     0
-Indiana Pacers               -42   None     0
-Utah Jazz                    -44   None     0
-LA Clippers                  -48   None     0
-Phoenix Suns                 -50   None     0
-Oklahoma City Thunder        -51   None     0
-Sacramento Kings             -59   1951     1
-Atlanta Hawks                -61   1958     1
+LA Lakers                   +265   2010    16
+Boston Celtics              +164   2008    17
+Chicago Bulls               +115   1998     6
+San Antonio Spurs           +105   2014     5
+Miami Heat                   +59   2013     3
+Golden State Warriors        +54   2018     6
+Detroit Pistons              +10   2004     3
+Toronto Raptors               +6   2019     1
+Houston Rockets               +2   1995     2
+Dallas Mavericks              -9   2011     1
+New Orleans Pelicans         -17   None     0
+Cleveland Cavaliers          -19   2016     1
+Memphis Grizzlies            -24   None     0
+Portland Trail Blazers       -27   1977     1
+Philadelphia 76ers           -28   1983     3
+Charlotte Hornets            -29   None     0
+Minnesota Timberwolves       -30   None     0
+Orlando Magic                -30   None     0
+Milwaukee Bucks              -34   1971     1
+Washington Wizards           -36   1978     1
+New York Knicks              -42   1973     2
+Brooklyn Nets                -43   None     0
+Denver Nuggets               -43   None     0
+Indiana Pacers               -43   None     0
+Utah Jazz                    -45   None     0
+LA Clippers                  -49   None     0
+Phoenix Suns                 -51   None     0
+Oklahoma City Thunder        -52   None     0
+Sacramento Kings             -60   1951     1
+Atlanta Hawks                -62   1958     1
