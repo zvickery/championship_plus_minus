@@ -1,26 +1,26 @@
 Team                      Rating Last Win Wins
 ------------------------- ------ -------- ----
-LA Galaxy                    +54   2014     5
-Seattle Sounders FC          +33   2019     2
-Atlanta United FC            +20   2018     1
-DC United                    +18   2004     4
-Houston Dynamo               +11   2007     2
-Portland Timbers             +11   2015     1
-Toronto FC                    +9   2017     1
-Sporting KC                   +7   2013     2
-Real Salt Lake                +0   2009     1
-FC Cincinnati                 -1   None     0
-LA FC                         -2   None     0
-San Jose Earthquakes          -2   2003     2
-Minnesota United FC           -3   None     0
-New York City FC              -5   None     0
-Orlando City SC               -5   None     0
-Colorado Rapids               -8   2010     1
-Montreal Impact               -8   None     0
-Vancouver Whitecaps FC        -9   None     0
-Chicago Fire                 -10   1998     1
-Columbus Crew SC             -10   2008     1
-Philadelphia Union           -10   None     0
-FC Dallas                    -24   None     0
-New England Revolution       -24   None     0
-New York Red Bulls           -24   None     0
+LA Galaxy                    +53   2014     5
+Seattle Sounders FC          +32   2019     2
+Atlanta United FC            +19   2018     1
+DC United                    +17   2004     4
+Columbus Crew SC             +15   2020     2
+Houston Dynamo               +10   2007     2
+Portland Timbers             +10   2015     1
+Toronto FC                    +8   2017     1
+Sporting KC                   +6   2013     2
+Real Salt Lake                -1   2009     1
+FC Cincinnati                 -2   None     0
+LA FC                         -3   None     0
+San Jose Earthquakes          -3   2003     2
+Minnesota United FC           -4   None     0
+New York City FC              -6   None     0
+Orlando City SC               -6   None     0
+Colorado Rapids               -9   2010     1
+Montreal Impact               -9   None     0
+Vancouver Whitecaps FC       -10   None     0
+Chicago Fire                 -11   1998     1
+Philadelphia Union           -11   None     0
+FC Dallas                    -25   None     0
+New England Revolution       -25   None     0
+New York Red Bulls           -25   None     0

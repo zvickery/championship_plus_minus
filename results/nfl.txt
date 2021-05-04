@@ -1,34 +1,34 @@
 Team                      Rating Last Win Wins
 ------------------------- ------ -------- ----
-New England Patriots        +131   2018     6
-Green Bay Packers           +116   2010    13
-Pittsburgh Steelers          +85   2008     6
-Dallas Cowboys               +80   1995     5
-New York Giants              +70   2011     8
-SF 49ers                     +70   1994     5
-Baltimore Ravens             +39   2012     2
-Denver Broncos               +32   2015     3
-Oakland Raiders              +24   1983     3
-Chicago Bears                +19   1985     9
-Washington Redskins          +16   1991     5
-Indianapolis Colts           +15   2006     4
-KC Chiefs                     +6   2019     3
-Miami Dolphins                -2   1973     2
-Seattle Seahawks             -12   2013     1
-Tampa Bay Buccaneers         -12   2002     1
-Cleveland Browns             -16   1964     4
-Houston Texans               -18   None     0
-New Orleans Saints           -21   2009     1
-Philadelphia Eagles          -22   2017     4
-Carolina Panthers            -25   None     0
-Jacksonville Jaguars         -25   None     0
-St Louis Rams                -30   1999     3
-New York Jets                -34   1968     1
-Buffalo Bills                -44   1965     2
-Tennessee Titans             -44   1961     2
-Detroit Lions                -45   1957     4
-Cincinnati Bengals           -52   None     0
-San Diego Chargers           -52   1963     1
-Atlanta Falcons              -54   None     0
-Minnesota Vikings            -59   None     0
-Arizona Cardinals            -70   1947     2
+New England Patriots        +130   2018     6
+Green Bay Packers           +115   2010    13
+Pittsburgh Steelers          +84   2008     6
+Dallas Cowboys               +79   1995     5
+New York Giants              +69   2011     8
+SF 49ers                     +69   1994     5
+Baltimore Ravens             +38   2012     2
+Denver Broncos               +31   2015     3
+Oakland Raiders              +23   1983     3
+Tampa Bay Buccaneers         +19   2020     2
+Chicago Bears                +18   1985     9
+Washington Redskins          +15   1991     5
+Indianapolis Colts           +14   2006     4
+KC Chiefs                     +5   2019     3
+Miami Dolphins                -3   1973     2
+Seattle Seahawks             -13   2013     1
+Cleveland Browns             -17   1964     4
+Houston Texans               -19   None     0
+New Orleans Saints           -22   2009     1
+Philadelphia Eagles          -23   2017     4
+Carolina Panthers            -26   None     0
+Jacksonville Jaguars         -26   None     0
+St Louis Rams                -31   1999     3
+New York Jets                -35   1968     1
+Buffalo Bills                -45   1965     2
+Tennessee Titans             -45   1961     2
+Detroit Lions                -46   1957     4
+Cincinnati Bengals           -53   None     0
+San Diego Chargers           -53   1963     1
+Atlanta Falcons              -55   None     0
+Minnesota Vikings            -60   None     0
+Arizona Cardinals            -71   1947     2
