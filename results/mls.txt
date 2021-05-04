@@ -9,6 +9,9 @@ Houston Dynamo               +10   2007     2
 Portland Timbers             +10   2015     1
 Toronto FC                    +8   2017     1
 Sporting KC                   +6   2013     2
+Austin FC                     +0   None     0
+Inter Miami CF                -1   None     0
+Nashville SC                  -1   None     0
 Real Salt Lake                -1   2009     1
 FC Cincinnati                 -2   None     0
 LA FC                         -3   None     0

@@ -1,6 +1,4 @@
-#!/usr/bin/env python
-
-from __future__ import print_function
+#!/usr/bin/env python3
 
 import argparse
 import json
@@ -31,7 +29,7 @@ class PlusMinusCalculator:
         champs = self.doc['champions']
         if 'prior' in self.doc['teams'][team]:
             prior = self.doc['teams'][team]['prior']
-            champs = dict(champs.items() + self.doc[prior].items())
+            champs = champs | self.doc[prior]
 
         return sorted(champs.items())
 

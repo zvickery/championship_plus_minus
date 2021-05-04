@@ -1,6 +1,7 @@
 {
   "teams": {
     "ATL" : { "name": "Atlanta United FC", "start": 2017 },
+    "AUS" : { "name": "Austin FC", "start": 2021 },
     "CHI" : { "name": "Chicago Fire", "start": 1998 },
     "CLM" : { "name": "Columbus Crew SC", "start": 1996 },
     "COL" : { "name": "Colorado Rapids", "start": 1996 },
@@ -10,8 +11,10 @@
     "HOU" : { "name": "Houston Dynamo", "start": 2006 },
     "LAG" : { "name": "LA Galaxy", "start": 1996 },
     "LAF" : { "name": "LA FC", "start": 2018 },
+    "MIA" : { "name": "Inter Miami CF", "start": 2020 },
     "MIN" : { "name": "Minnesota United FC", "start": 2017 },
     "MON" : { "name": "Montreal Impact", "start": 2012 },
+    "NAS" : { "name": "Nashville SC", "start": 2020 },
     "NYC" : { "name": "New York City FC", "start": 2015 },
     "NYR" : { "name": "New York Red Bulls", "start": 1996 },
     "NER" : { "name": "New England Revolution", "start": 1996 },
