@@ -78,6 +78,7 @@ class PlusMinusCalculator:
                                                   team[1]['last'],
                                                   team[1]['count']))
 
+
 if __name__ == "__main__":
     c = PlusMinusCalculator()
     c.print_results(c.calculate())
