@@ -147,6 +147,7 @@
     "2017": { "winner": "HOU", "teams": 30},
     "2018": { "winner": "BOS", "teams": 30},
     "2019": { "winner": "WAS", "teams": 30},
-    "2020": { "winner": "LAD", "teams": 30}
+    "2020": { "winner": "LAD", "teams": 30},
+    "2021": { "winner": "ATL", "teams": 30}
   }
 }
