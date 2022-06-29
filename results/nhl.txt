@@ -1,33 +1,33 @@
 Team                      Rating Last Win Wins
 ------------------------- ------ -------- ----
-Montreal Canadiens          +152   1993    23
-Pittsburgh Penguins          +80   2017     5
-Detroit Red Wings            +64   2008    11
-Edmonton Oilers              +64   1990     5
-Tampa Bay Lightning          +64   2021     3
-New Jersey Devils            +38   2003     3
-New York Islanders           +36   1983     4
-Chicago Blackhawks           +19   2015     6
-Colorado Avalanche           +15   2001     2
-LA Kings                      +7   2014     2
-Anaheim Ducks                 +3   2007     1
-Vegas Golden Knights          -4   None     0
-Carolina Hurricanes          -11   2006     1
-Washington Capitals          -15   2018     1
-Boston Bruins                -16   2011     6
-Philadelphia Flyers          -19   1975     2
-Columbus Blue Jackets        -20   None     0
-Minnesota Wild               -20   None     0
-Winnipeg Jets                -21   None     0
-Nashville Predators          -22   None     0
-St Louis Blues               -22   2019     1
-Dallas Stars                 -26   1999     1
-Toronto Maple Leafs          -26   1967    13
-Calgary Flames               -27   1989     1
-Florida Panthers             -27   None     0
-Ottawa Senators              -28   None     0
-San Jose Sharks              -29   None     0
-Phoenix Coyotes              -41   None     0
-New York Rangers             -42   1994     4
-Buffalo Sabres               -50   None     0
-Vancouver Canucks            -50   None     0
+Montreal Canadiens          +151   1993    23
+Pittsburgh Penguins          +79   2017     5
+Detroit Red Wings            +63   2008    11
+Edmonton Oilers              +63   1990     5
+Tampa Bay Lightning          +63   2021     3
+Colorado Avalanche           +46   2022     3
+New Jersey Devils            +37   2003     3
+New York Islanders           +35   1983     4
+Chicago Blackhawks           +18   2015     6
+LA Kings                      +6   2014     2
+Anaheim Ducks                 +2   2007     1
+Vegas Golden Knights          -5   None     0
+Carolina Hurricanes          -12   2006     1
+Washington Capitals          -16   2018     1
+Boston Bruins                -17   2011     6
+Philadelphia Flyers          -20   1975     2
+Columbus Blue Jackets        -21   None     0
+Minnesota Wild               -21   None     0
+Winnipeg Jets                -22   None     0
+Nashville Predators          -23   None     0
+St Louis Blues               -23   2019     1
+Dallas Stars                 -27   1999     1
+Toronto Maple Leafs          -27   1967    13
+Calgary Flames               -28   1989     1
+Florida Panthers             -28   None     0
+Ottawa Senators              -29   None     0
+San Jose Sharks              -30   None     0
+Phoenix Coyotes              -42   None     0
+New York Rangers             -43   1994     4
+Buffalo Sabres               -51   None     0
+Vancouver Canucks            -51   None     0
