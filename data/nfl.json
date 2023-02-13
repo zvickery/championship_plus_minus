@@ -89,7 +89,8 @@
     "2018": { "winner": "NEP", "teams": 32},
     "2019": { "winner": "KCC", "teams": 32},
     "2020": { "winner": "TBB", "teams": 32},
-    "2021": { "winner": "LAR", "teams": 32}
+    "2021": { "winner": "LAR", "teams": 32},
+    "2022": { "winner": "KCC", "teams": 32}
   },
   "afl": {
     "1960": { "winner": "TEN", "teams": 8},
