@@ -25,6 +25,7 @@
     "PIT" : { "name": "Pittsburgh Penguins", "start": 1968 },
     "OTT" : { "name": "Ottawa Senators", "start": 1993 },
     "OTT1": { "name": "Ottawa Senators", "start": 1918, "end": 1934 },
+    "SEA" : { "name": "Seattle Kraken", "start": 2022 },
     "SJS" : { "name": "San Jose Sharks", "start": 1992 },
     "STL" : { "name": "St Louis Blues", "start": 1968 },
     "TBL" : { "name": "Tampa Bay Lightning", "start": 1993 },
@@ -138,6 +139,7 @@
     "2019": { "winner": "STL", "teams": 31},
     "2020": { "winner": "TBL", "teams": 31},
     "2021": { "winner": "TBL", "teams": 31},
-    "2022": { "winner": "COL", "teams": 32}
+    "2022": { "winner": "COL", "teams": 32},
+    "2023": { "winner": "VGK", "teams": 32}
   }
 }
