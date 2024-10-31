@@ -150,6 +150,7 @@
     "2020": { "winner": "LAD", "teams": 30},
     "2021": { "winner": "ATL", "teams": 30},
     "2022": { "winner": "HOU", "teams": 30},
-    "2023": { "winner": "TEX", "teams": 30}
+    "2023": { "winner": "TEX", "teams": 30},
+    "2024": { "winner": "LAD", "teams": 30}
   }
 }
