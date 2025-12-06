@@ -64,7 +64,7 @@
     "1976": { "winner": "BOS", "teams": 18},
     "1977": { "winner": "POR", "teams": 22},
     "1978": { "winner": "WAS", "teams": 22},
-    "1979": { "winner": "SEA", "teams": 22},
+    "1979": { "winner": "OKC", "teams": 22},
     "1980": { "winner": "LAL", "teams": 22},
     "1981": { "winner": "BOS", "teams": 23},
     "1982": { "winner": "LAL", "teams": 23},
@@ -109,6 +109,7 @@
     "2021": { "winner": "MIL", "teams": 30},
     "2022": { "winner": "GSW", "teams": 30},
     "2023": { "winner": "DEN", "teams": 30},
-    "2024": { "winner": "BOS", "teams": 30}
+    "2024": { "winner": "BOS", "teams": 30},
+    "2025": { "winner": "OKC", "teams": 30}
   }
 }

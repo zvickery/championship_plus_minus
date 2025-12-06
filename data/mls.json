@@ -57,6 +57,8 @@
     "2020": { "winner": "CLM", "teams": 26},
     "2021": { "winner": "NYC", "teams": 27},
     "2022": { "winner": "LAF", "teams": 28},
-    "2023": { "winner": "CLM", "teams": 29}
+    "2023": { "winner": "CLM", "teams": 29},
+    "2024": { "winner": "LAG", "teams": 29},
+    "2025": { "winner": "MIA", "teams": 29}
   }
 }

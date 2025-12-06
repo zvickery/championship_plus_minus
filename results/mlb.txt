@@ -1,32 +1,32 @@
 Team                      Rating Last Win Wins
 ------------------------- ------ -------- ----
-New York Yankees            +406   2009    27
-St Louis Cardinals          +102   2011    11
-Boston Red Sox               +80   2018     9
-LA Dodgers                   +64   2024     8
-Oakland A's                  +58   1989     9
-SF Giants                    +50   2014     8
-Miami Marlins                +27   2003     2
-Toronto Blue Jays             +7   1993     2
-Arizona Diamondbacks          +3   2001     1
-KC Royals                     +1   2015     2
-Houston Astros                -2   2022     2
-New York Mets                -12   1986     2
-Cincinnati Reds              -14   1990     5
-Pittsburgh Pirates           -22   1979     5
-Washington Nationals         -25   2019     1
-Tampa Bay Rays               -27   None     0
-Atlanta Braves               -30   2021     4
-Colorado Rockies             -31   None     0
-LA Angels                    -33   2002     1
-Texas Rangers                -33   2023     1
-Detroit Tigers               -42   1984     4
-Seattle Mariners             -47   None     0
-Baltimore Orioles            -50   1983     3
-Minnesota Twins              -52   1991     3
-Milwaukee Brewers            -55   None     0
-San Diego Padres             -55   None     0
-Chicago Cubs                 -58   2016     3
-Chicago White Sox            -58   2005     3
-Philadelphia Phillies        -64   2008     2
-Cleveland Indians            -88   1948     2
+New York Yankees            +405   2009    27
+St Louis Cardinals          +101   2011    11
+LA Dodgers                   +93   2025     9
+Boston Red Sox               +79   2018     9
+Oakland A's                  +57   1989     9
+SF Giants                    +49   2014     8
+Miami Marlins                +26   2003     2
+Toronto Blue Jays             +6   1993     2
+Arizona Diamondbacks          +2   2001     1
+KC Royals                     +0   2015     2
+Houston Astros                -3   2022     2
+New York Mets                -13   1986     2
+Cincinnati Reds              -15   1990     5
+Pittsburgh Pirates           -23   1979     5
+Washington Nationals         -26   2019     1
+Tampa Bay Rays               -28   None     0
+Atlanta Braves               -31   2021     4
+Colorado Rockies             -32   None     0
+LA Angels                    -34   2002     1
+Texas Rangers                -34   2023     1
+Detroit Tigers               -43   1984     4
+Seattle Mariners             -48   None     0
+Baltimore Orioles            -51   1983     3
+Minnesota Twins              -53   1991     3
+Milwaukee Brewers            -56   None     0
+San Diego Padres             -56   None     0
+Chicago Cubs                 -59   2016     3
+Chicago White Sox            -59   2005     3
+Philadelphia Phillies        -65   2008     2
+Cleveland Indians            -89   1948     2
